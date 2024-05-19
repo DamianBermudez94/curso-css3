@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url("img/breno-machado-in9-n0JwgZ0-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.caja{
+    width: 500px;
+    height: 500px;
+    margin: 30px auto;
+    background-image: url("img/bx-cycling.svg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

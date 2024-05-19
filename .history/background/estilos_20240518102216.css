@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url("/img/breno-machado-in9-n0JwgZ0-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.caja{
+    width: 50px;
+    height: 50px;
+margin: 50px auto;
+    background-image: url("/img/bx-cycling.svg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container-info{
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+.title-text{
+    width: 100%;
+    font-size: 1.9em;
+    text-align: center;
+    padding: 20px;
+}

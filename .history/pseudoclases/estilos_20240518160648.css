@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    width: 90%;
+    background-color: gray;
+    margin: 0 auto;
+    padding: auto;30px
+}

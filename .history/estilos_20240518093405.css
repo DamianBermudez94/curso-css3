@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("img/simon-berger-rydQVdwcgUQ-unsplash.jpg");
+
+}
+.caja{
+    width: 50%;
+    height: 800px;
+    background-color: aqua;
+    margin: 30px auto;
+    background-image: url("img/geranimo-UcBkRilVFVs-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
