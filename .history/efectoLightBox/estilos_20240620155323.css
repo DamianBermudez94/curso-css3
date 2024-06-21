@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.picture img{
+    width: 100%;
+    max-width: 600px;
+    height: 400px;
+    object-fit: cover;
+    margin: 0 auto;
+}
