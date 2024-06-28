@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #fff;
+    height: 100vh;
+    display: flex;
+}
+.grid{
+    background-color: #fff;
+    height: 90vh;
+    width: 90%;
+    max-width: 1200px;
+
+}
